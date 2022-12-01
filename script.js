@@ -1,7 +1,7 @@
 const collection = [
     {
         name: "Elite",
-        director:"	Darío Madrona",
+        director:"Darío Madrona",
         years:"2018",
         picture: "https://static.wikia.nocookie.net/elite/images/b/b2/Ff76WxLUYAAFH0V.jpg/revision/latest/scale-to-width-down/700?cb=20221028132857&path-prefix=fr",
         genre: "Suspense",
@@ -41,5 +41,25 @@ const collection = [
     },
 ]
 
-let newDiv = document.createElement("div");
-newDiv.textContent = "bonjour" +1
+/*function collectionElement (){
+    for (let element of collection) {
+    console.log(element);
+  }
+  }
+  collectionElement()*/
+
+
+function onload (){
+    let div = document.createElement("div");
+    div.classList.add("parent") ;
+    let newbody = document.getElementsByTagName("body")[0];
+    newbody.appendChild(div);
+}
+
+
+
+  
+
+
+
+  
