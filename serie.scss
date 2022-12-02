@@ -23,6 +23,7 @@ h1{
     margin-top: 12vw;
     margin-bottom: 15vw;
     font-size: 6vw;
+    margin-left: 5vw;
 }
 h2{
     
@@ -151,12 +152,13 @@ header{
         box-shadow: 0.5vw 0.25vw 0.25vw black;
         border-radius: 0.5vw;
         width: 28vw;
+        height: 28vw;
         background-color: #cacaca;
         overflow: hidden;
         transition: 0.2s;
         background-size: cover;
         background-repeat: no-repeat;
-        .logoimg{
+        .logo{
             width: 1.5vw;
             margin: 2vw;
         }
@@ -187,6 +189,7 @@ header{
         grid-template-rows: repeat(4, 1fr);
         grid-column-gap: 0vw;
         grid-row-gap: 4vw;
+        margin-left: 5vw;
    
         }
 
