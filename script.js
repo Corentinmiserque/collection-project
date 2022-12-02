@@ -105,7 +105,7 @@ const collectionSerie = [
         years:"2015",
         picture: "https://fr.web.img5.acsta.net/pictures/18/04/10/10/27/5800369.jpg",
         genre: "Super Hero",
-        summary:"Les aventures de Kara Zor-El, la cousine de Superman, alias Supergirl. A 24 ans, la jeune femme, qui mène sa vie en marge de celle de son célèbre cousin, se sent impuissante face à ses pouvoirs extraordinaires qu'on lui a appris à ne pas utiliser. Employée dans un grand média de National City, elle va se retrouver à mener une double vie pour combattre le crime dans sa ville.",
+        summary:"Les aventures de Supergirl. A 24 ans, elle mène sa vie en marge de celle de son célèbre cousin, se sent impuissante face à ses pouvoirs extraordinaires qu'on lui a appris à ne pas utiliser. Elle va se retrouver à mener une double vie pour combattre le crime dans sa ville.",
         logo:"https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Netflix_logo.png/800px-Netflix_logo.png",
         link:"https://www.netflix.com/browse",
     },
