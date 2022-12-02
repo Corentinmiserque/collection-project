@@ -2,7 +2,7 @@
 # TECHNOLOGIE:
 * JS
 * SCSS
-*HTML
+* HTML
 
 # Author:
  Corentin Miserque
