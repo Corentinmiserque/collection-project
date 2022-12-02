@@ -32,3 +32,5 @@ nav{
     }
 
 }
+
+divNumber.style.backgroundImage = "url(" + collectionSerie[i]["picture"] +");";
