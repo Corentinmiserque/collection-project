@@ -7,6 +7,6 @@
 # Author:
  Corentin Miserque
 
-# lINK:
+# LINK:
 Github page: https://corentinmiserque.github.io/collection-project/
 
