@@ -4,9 +4,9 @@
 * SCSS
 *HTML
 
-#Author:
+# Author:
  Corentin Miserque
 
-#lINK:
+# lINK:
 Github page: https://corentinmiserque.github.io/collection-project/
 
